@@ -6,7 +6,3 @@ def square(x):
         count = count + 1
         if count == x:
             break
-    return
-
-
-

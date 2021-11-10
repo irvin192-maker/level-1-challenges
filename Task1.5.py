@@ -9,9 +9,8 @@ def triangle(x):
     while count <= x:
         print("#"*count)
         count = count + 1
-    return
 
 
-triangle(-3)
+
 
 

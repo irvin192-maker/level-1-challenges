@@ -3,16 +3,3 @@ def longest(arr):
     for word in arr:
         if len(l_word) == len(word):
             print(word)
-    return
-
-
-
-
-
-
-
-
-
-
-
-
